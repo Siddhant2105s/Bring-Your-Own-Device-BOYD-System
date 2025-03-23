@@ -4,10 +4,10 @@ This repository contains the design, implementation, and documentation for the L
 
 ## Requirements and Business Rules
 The system is designed to meet the following requirements:
-### 1.	Employee and Department Management:
+1.	Employee and Department Management:
 •	Each employee belongs to a department, which has a unique department code, name, mailbox number, and phone number.
 •	Employee details include employee number, name, email, title, and department code.
-### 2.	Project Management:
+2.	Project Management:
 •	Projects are created to address specific business issues, with project teams consisting of members from one or more departments.
 •	Project details include project ID, name, description, start date, and end date.
 3.	Device Registration and Management:
