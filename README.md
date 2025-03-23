@@ -5,24 +5,27 @@ This repository contains the design, implementation, and documentation for the L
 ## Requirements and Business Rules
 The system is designed to meet the following requirements:
 1.	Employee and Department Management:
- •	Each employee belongs to a department, which has a unique department code, name, mailbox number, and phone number.
- •	Employee details include employee number, name, email, title, and department code.
-2.	Project Management:
+   
+•	Each employee belongs to a department, which has a unique department code, name, mailbox number, and phone number.
+
+•	Employee details include employee number, name, email, title, and department code.
+ 
+3.	Project Management:
  •	Projects are created to address specific business issues, with project teams consisting of members from one or more departments.
  •	Project details include project ID, name, description, start date, and end date.
-3.	Device Registration and Management:
+4.	Device Registration and Management:
  •	All devices (desktop, laptop, smartphone, tablet) must be registered with the IT department.
  •	Device details include brand, model, value, operating system, registration date, activation date, MAC address, and security features (e.g., screen lock, BitLocker).
-4.	BYOD Approval and Activation:
+5.	BYOD Approval and Activation:
 •	Devices must be approved by an IT supervisor and activated by a systems administrator.
 •	Approval and activation dates are recorded.
-5.	Corporate Accounts and Software Installation:
+6.	Corporate Accounts and Software Installation:
 •	Corporate accounts are created for BYOD devices, with Microsoft 365, OneDrive, and other business applications installed.
 •	Software installations are tracked for each device.
-6.	Service Access and Permissions:
+7.	Service Access and Permissions:
 •	Employees are granted access to shared services (e.g., HR, Payroll) based on their role and department.
 •	Two-factor authentication is required for accessing services.
-7.	Network Access and Security:
+8.	Network Access and Security:
 •	Devices are authenticated using MAC addresses, and two-factor authentication is required for Wi-Fi access.
 •	Desktop devices have static IP addresses, while mobile devices receive temporary IP addresses.
 
