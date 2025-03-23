@@ -1,4 +1,4 @@
-# Bring-Your-Own-Device-BOYD-System
+# Bring Your Own Device(BOYD) System
 
 This repository contains the design, implementation, and documentation for the Life Insurance Co. Li-BYOD System, a database solution to manage the "Bring Your Own Device" (BYOD) policy introduced by Life Insurance Co. as part of their post-COVID "Work from Home" strategy. The system ensures that all devices connecting to the company network comply with IT cybersecurity policies and controls
 
