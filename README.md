@@ -89,11 +89,23 @@ The database is populated with mock data to demonstrate its functionality. Examp
 ## SQL Queries for IT Management
 The following SQL queries provide valuable insights for IT management:
 1.	Breakdown of BYOD Devices:
+![image](https://github.com/user-attachments/assets/1bff6226-c8da-43d2-9ca5-d8f41e56309a)
+
 2.	Total Cost of BYOD Devices:
+![image](https://github.com/user-attachments/assets/c1e1bbde-76ee-4470-afcc-643e7f5a6499)
+
 3.	Average Cost by Device Type:
+![image](https://github.com/user-attachments/assets/93497413-dbbc-4328-b5ec-6529a79acf3b)
+
 4.	Average Time for Device Activation:
+![image](https://github.com/user-attachments/assets/fe9f02d0-46d2-41d9-8b05-8c185c5a8ddc)
+
 5.	Device with Longest Activation Time:
+![image](https://github.com/user-attachments/assets/7076a32e-69d6-4b7e-81ac-118df1faf80f)
+
 6.	Minimum and Maximum Activation Times:
+![image](https://github.com/user-attachments/assets/19d15e17-608a-43f4-9cfa-2d4884a6ca7c)
+
 
 ## Conclusion
 The Life Insurance Co. Li-BYOD System provides a comprehensive solution for managing BYOD devices, ensuring compliance with IT policies, and enabling efficient monitoring of device usage. The database design adheres to normalization principles, and the SQL queries offer valuable insights for IT management.
