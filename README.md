@@ -67,6 +67,7 @@ The database is normalized to the Third Normal Form (3NF):
 
 ## Database Implementation
 1. SQL Script
+
 The database is implemented using MySQL. The SQL script includes:
 
  •	Table creation (CREATE TABLE statements).
@@ -75,7 +76,13 @@ The database is implemented using MySQL. The SQL script includes:
 
  •	Data insertion scripts to populate the database with mock data.
 
+ Example Snippet:
+
+ ![image](https://github.com/user-attachments/assets/598bd966-6292-4178-ab0a-97bc48fa948d)
+
+
 3. Mock Data
+
 The database is populated with mock data to demonstrate its functionality. Example data includes:
 
  •	Departments: Human Resources, Finance, IT, etc.
