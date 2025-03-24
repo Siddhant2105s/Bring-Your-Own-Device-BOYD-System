@@ -101,12 +101,15 @@ The following SQL queries provide valuable insights for IT management:
 ![image](https://github.com/user-attachments/assets/93497413-dbbc-4328-b5ec-6529a79acf3b)
 
 4.	Average Time for Device Activation:
+
 ![image](https://github.com/user-attachments/assets/fe9f02d0-46d2-41d9-8b05-8c185c5a8ddc)
 
 5.	Device with Longest Activation Time:
+
 ![image](https://github.com/user-attachments/assets/7076a32e-69d6-4b7e-81ac-118df1faf80f)
 
 6.	Minimum and Maximum Activation Times:
+
 ![image](https://github.com/user-attachments/assets/19d15e17-608a-43f4-9cfa-2d4884a6ca7c)
 
 
